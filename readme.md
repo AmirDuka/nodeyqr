@@ -1,5 +1,5 @@
-node.js Regina
+# node.js Regina
 
-this project its to learn CSS, HTML,JS, Node.js and Monogo.db
+This project it's to learn HTML,CSS, JS, Node.js and MonogoDB
 
 1. [html] /html/readme.md
