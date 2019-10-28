@@ -4,8 +4,7 @@ This project it's to learn HTML,CSS, JS, Node.js and MonogoDB
 
 1. [html](/html/readme.md)
 
-- uafjdksakfd
-- fdsafds
+
 
 ![description](\ex_7\Imgs\dogs\dog_1.jpg)
 ![description](\ex_7\Imgs\dogs\dog_2.jpg)
